@@ -1,5 +1,5 @@
- ![BloomeeTunes](./assets/docs/bloomeetunes_new_banner.png)
-**<h1 align=center>Bloomee🌸</h1>**
+ ![khanna tunez](./assets/docs/bloomeetunes_new_banner.png)
+**<h1 align=center>khanna tunez</h1>**
 <p align="center"><img src=https://img.shields.io/sourceforge/dt/bloomee?style=for-the-badge&logoSize=auto&label=DOWNLOADS(SF)
  /> <a href="https://github.com/HemantKArya/BloomeeTunes/releases/latest"><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/HemantKArya/BloomeeTunes/total?style=for-the-badge&label=DOWNLOADS(GH)" >
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/HemantKArya/BloomeeTunes?display_name=release&style=for-the-badge&color=f01d7c" ></a>
@@ -13,11 +13,11 @@
 Bloomee is experimental cross-platform open Source Music player designed to bring you Ad-free tunes from various sources. Dive into a world of limitless music from platforms like YouTube and Jio Saavn, with more sources blooming soon! 🌼🎵
 
 
-![BloomeeTunesScrnShots](./assets/docs/banner2BloomeScrnShot.png)
+![kts](./assets/docs/banner2BloomeScrnShot.png)
 
-![BloomeeDesktop](./assets/docs/lyricsscrn.png)
+![khanna tunez Desktop](./assets/docs/lyricsscrn.png)
 
-### **Why Bloomee?**
+### **Why khanna tunez?**
 
 🌟 **Ad-Free Experience:** Say goodbye to interruptions and enjoy uninterrupted musical bliss.
 
